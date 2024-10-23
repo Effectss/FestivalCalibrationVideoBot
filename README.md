@@ -15,11 +15,11 @@ sudo apt install ffmpeg
 On Windows or macOS, download it from here:
 https://ffmpeg.org/download.html
 
-Step 2: Open the Terminal or Command Prompt
+Step 3: Open the Terminal or Command Prompt
 Navigate to the directory where your Python script is located using cd commands.
 Example: cd path/to/your/script
 
-Step 3: Run the Script
+Step 4: Run the Script
 Run the script by typing:
 python script_name.py
 Replace script_name.py with the name of your script.
