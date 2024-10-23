@@ -21,9 +21,6 @@ Example: cd path/to/your/script
 
 Step 4: Run the Script
 Run the script by typing:
-python script_name.py
-Replace script_name.py with the name of your script.
-Optional: Virtual Environment (if needed)
-If the script requires specific packages or libraries:
+python bot.py
 
 That’s it!
